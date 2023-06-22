@@ -1,3 +1,20 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 body {
-  background: red;
+  background: #101010;
+}
+
+.title {
+  color: #ff991c;
+}
+
+.description {
+  color: white;
+  margin-bottom: 1000px;
+}
+
+.defered {
+  color: white;
 }
